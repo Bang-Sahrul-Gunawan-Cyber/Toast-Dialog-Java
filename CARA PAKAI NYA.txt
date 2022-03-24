@@ -1,0 +1,1 @@
+invoke-static {p0}, LmasterX/goblok/ehmaaf/OoOo;->get(Landroid/content/Context;)V
